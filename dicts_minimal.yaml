@@ -1,0 +1,4 @@
+beers:
+  name: beers
+  path: ./datasets/beers/dirty.csv
+  clean_path: ./datasets/beers/clean.csv
